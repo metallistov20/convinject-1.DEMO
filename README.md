@@ -1,14 +1,16 @@
-# 1. Description - CYGWIN environment for CONVINJECT-1 Project.pdf
+# Contents of this repository
 
-Step by step instructions how to expand environment CygWIN with necessary packages. Needed for successful build of CONVINJECT-1 Project. (Permanent URL: https://github.com/metallistov20/convinject-1)
+## 1. Description - CYGWIN environment for CONVINJECT-1 Project.pdf
 
-# Description - conversation injector.pdf
+Step by step instructions how to expand environment CygWIN (x86_64) with necessary packages. Needed for successful build of CONVINJECT-1 Project, permanent URL of which is: https://github.com/metallistov20/convinject-1.
 
-Step by step instuction how to _build and how to _deploy CONVINJECT-1 Project. (Permanent URL: https://github.com/metallistov20/convinject-1.) Explains adjustment of <targets.xml> file for exact purposes of each exact task.
+## 2. Description - conversation injector.pdf
 
-# convinject-1.mpg
+Step by step instuction how to _build and how to _deploy CONVINJECT-1 Project, permanent URL of which is: https://github.com/metallistov20/convinject-1. Explains wel an adjustment of file <targets.xml> for exact purposes of some tasks.
 
-Video which demonstrates successful run of CONVINJECT-1 Project on Ubuntu 12.04 with targets TL-SL2210, TL-SL2218, TL-SL5428E, and some others.
+## 3. convinject-1.mpg
+
+Video which demonstrates successful run of CONVINJECT-1 Project (permanent URL of which is: https://github.com/metallistov20/convinject-1) on Ubuntu 12.04 (3.19.0-68-generic, x86_32) with targets TL-SL2210, TL-SL2218, TL-SL5428E, and some others.
 
 
 
